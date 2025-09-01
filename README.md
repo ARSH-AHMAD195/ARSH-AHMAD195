@@ -2,6 +2,8 @@
 <img width="1584" height="396" alt="linkedin banner" src="https://github.com/user-attachments/assets/f728d147-0499-4a17-a4ac-8c138deefc5e" />
 ## Hello! My name is Arsh Ahmad. <br>
 I am from Bhopal, Madhya Pradesh, India. Currently persuing BTech in Computer Science Engineering. 
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/86911719-b675-4ed7-8cbf-8a94b18e0b1d" />
+
 <!--
 **ARSH-AHMAD195/ARSH-AHMAD195** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
